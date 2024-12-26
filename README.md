@@ -1,16 +1,23 @@
-## Hi there 👋
+##  Hello World  ପ( •̤ᴗ•̤ )੭⁾⁾.｡.:✽・ﾟ＋
 
-<!--
-**LewisADiaz/LewisADiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lewis A. Diaz Acevedo. I'm a **Computer Science student** from **Naranjito, Puerto Rico**, eager to dive deeper into the exciting world of coding, data analysis and software development. (˶˃⤙˂˶)♡ 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪷 I’m currently learning  
+- **Front-End**: HTML, CSS, JavaScript, React, Boostrap
+- **Back-End**: C++, SQL, PHP
+- **AI & Data Science**: Python  
+
+---
+
+### 🪼 I’m looking to collaborate on  
+- AI-driven applications  
+- Web development projects  
+- Anything that helps me grow as a developer!  
+
+---
+
+### ⚡ Fun fact  
+I’m not just a developer—I’ve also explored research in **nanoparticles** and shared my findings at international conferences!
+
