@@ -1,11 +1,11 @@
-##  Hello World  ପ( •̤ᴗ•̤ )੭⁾⁾.｡.:✽・ﾟ＋
+# Hello World ଓ( ੭ˊᵕˋ)੭* ੈ✩‧₊˚
 
-My name is Lewis A. Diaz Acevedo. I'm a **Computer Science student** from **Naranjito, Puerto Rico**, eager to dive deeper into the exciting world of coding, data analysis and software development. (˶˃⤙˂˶)♡ 
+My name is Lewis A. Diaz Acevedo. I'm a **Computer Science student** from **Naranjito, Puerto Rico**, eager to dive deeper into the exciting world of coding, data analysis, and software development. (˶˃⤙˂˶)♡
 
 ---
 
 ### 🪷 I’m currently learning  
-- **Front-End**: HTML, CSS, JavaScript, React, Boostrap
+- **Front-End**: HTML, CSS, JavaScript, React, Bootstrap
 - **Back-End**: C++, SQL, PHP
 - **AI & Data Science**: Python  
 
@@ -19,5 +19,12 @@ My name is Lewis A. Diaz Acevedo. I'm a **Computer Science student** from **Nara
 ---
 
 ### ⚡ Fun fact  
-I’m not just a developer—I’ve also explored research in **nanoparticles** and shared my findings at international conferences!
+I’m not just a developer—I also have developed and researched **nanoparticles** while sharing my findings at international conferences!
+
+---
+
+### How to reach me   (˶˃⤙˂˶)
+- Email: [lewisdiaz1410@gmail.com](mailto:your.email@example.com)
+
+---
 
